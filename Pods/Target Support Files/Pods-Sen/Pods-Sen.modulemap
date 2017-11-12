@@ -1,0 +1,6 @@
+framework module Pods_Sen {
+  umbrella header "Pods-Sen-umbrella.h"
+
+  export *
+  module * { export * }
+}
